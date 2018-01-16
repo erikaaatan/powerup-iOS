@@ -22,7 +22,7 @@ class VocabMatchingTests: XCTestCase {
         // Given
         let skView = SKView()
         
-        // When
+        // When (Initialize the scene.)
         vocabMatchingGame.didMove(to: skView)
         
         // Then
