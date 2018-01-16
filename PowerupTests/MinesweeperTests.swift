@@ -33,7 +33,7 @@ class MinesweeperTests: XCTestCase {
         // Given
         let skView = SKView()
         
-        // When
+        // When (Initialize the scene.)
         minesweeperGame.didMove(to: skView)
         
         // Then
