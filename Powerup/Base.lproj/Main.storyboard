@@ -1379,7 +1379,7 @@ The app uses Social and Emotional Learning (SEL) to empower middle school girls 
                                 <state key="normal" title="Button" image="home_button"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NFe-EU-XXC" userLabel="Map Button">
-                                <rect key="frame" x="132.5" y="226" width="169" height="36"/>
+                                <rect key="frame" x="365" y="226" width="169" height="36"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="169" id="Ovl-Sh-Ocq"/>
                                     <constraint firstAttribute="height" constant="36" id="YMv-cv-qAe"/>
