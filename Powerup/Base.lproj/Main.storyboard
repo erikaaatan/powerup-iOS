@@ -1400,7 +1400,7 @@ The app uses Social and Emotional Learning (SEL) to empower middle school girls 
                             <constraint firstItem="a87-JU-rSY" firstAttribute="top" secondItem="niH-gG-daI" secondAttribute="bottom" constant="15" id="WxR-0c-NEt"/>
                             <constraint firstItem="3x2-5c-b2v" firstAttribute="centerY" secondItem="uPm-ct-ZVH" secondAttribute="centerY" multiplier="0.5" id="cIj-uW-oMi"/>
                             <constraint firstAttribute="trailing" secondItem="a87-JU-rSY" secondAttribute="trailing" constant="15" id="eqP-zb-a4q"/>
-                            <constraint firstItem="NFe-EU-XXC" firstAttribute="centerX" secondItem="uPm-ct-ZVH" secondAttribute="centerX" id="fKW-c3-UtX"/>
+                            <constraint firstItem="NFe-EU-XXC" firstAttribute="centerX" secondItem="uPm-ct-ZVH" secondAttribute="centerX" multiplier="1.35" id="fKW-c3-UtX"/>
                             <constraint firstItem="Sjq-tY-NP2" firstAttribute="top" secondItem="uPm-ct-ZVH" secondAttribute="top" constant="10" id="goM-u3-ran"/>
                             <constraint firstItem="ggV-oD-bbd" firstAttribute="centerX" secondItem="o1p-K2-wtC" secondAttribute="centerX" multiplier="0.65" id="j5U-Yf-1jk"/>
                             <constraint firstItem="o1p-K2-wtC" firstAttribute="centerY" secondItem="uPm-ct-ZVH" secondAttribute="centerY" id="jji-0E-Qlf"/>
