@@ -1411,6 +1411,10 @@ The app uses Social and Emotional Learning (SEL) to empower middle school girls 
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="QiI-9m-e9X"/>
+                    <connections>
+                        <outlet property="karmaPointsLabel" destination="cOP-gF-DVR" id="cZU-fK-VdG"/>
+                        <outlet property="scenarioLabel" destination="3x2-5c-b2v" id="cQA-va-YK0"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NIo-dC-jOr" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="i9o-3C-Maz" userLabel="Exit" sceneMemberID="exit"/>
