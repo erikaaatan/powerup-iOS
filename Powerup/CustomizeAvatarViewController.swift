@@ -96,8 +96,8 @@ class CustomizeAvatarViewController: UIViewController {
         do {
             try dataSource.createAvatar(avatar)
             // Record the hair and clothes as bought if they aren't purchased by default.
-            boughtAccessory(accessory: avatar.hair)
-            boughtAccessory(accessory: avatar.clothes)
+            try dataSource.boughtAccessory(accessory: avatar.hair)
+            try dataSource.boughtAccessory(accessory: avatar.clothes)
         } catch _ {
             let alert = UIAlertController(title: "Warning", message: "Failed to save avatar, please retry this action. If that doesn't help, try restarting or reinstalling the app.", preferredStyle: .alert)
             
