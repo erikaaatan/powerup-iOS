@@ -57,10 +57,10 @@ class CustomizeAvatarViewController: UIViewController {
     }
     
     func initializeAccessoryArrays() {
-        clothes = dataSource.getAccessoryArray(accessoryType: .clothes).filter({a in return a.purchased})
-        hairs = dataSource.getAccessoryArray(accessoryType: .hair).filter({a in return a.purchased})
-        faces = dataSource.getAccessoryArray(accessoryType: .face).filter({a in return a.purchased})
-        eyes = dataSource.getAccessoryArray(accessoryType: .eyes).filter({a in return a.purchased})
+        clothes = dataSource.getAccessoryArray(accessoryType: .clothes)
+        hairs = dataSource.getAccessoryArray(accessoryType: .hair)
+        faces = dataSource.getAccessoryArray(accessoryType: .face)
+        eyes = dataSource.getAccessoryArray(accessoryType: .eyes)
     }
     
     func updateClothesImage() {
