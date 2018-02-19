@@ -1144,6 +1144,7 @@ The app uses Social and Emotional Learning (SEL) to empower middle school girls 
                             <constraint firstItem="35U-NA-5dW" firstAttribute="top" secondItem="dpd-4J-5ix" secondAttribute="bottom" id="F59-U3-8T4"/>
                             <constraint firstItem="QNs-33-Qom" firstAttribute="width" secondItem="uOc-oZ-NLG" secondAttribute="width" multiplier="0.275" id="KjK-7F-OAn"/>
                             <constraint firstItem="JQp-zY-86c" firstAttribute="width" secondItem="uOc-oZ-NLG" secondAttribute="width" multiplier="0.25" id="KrV-Eu-QSt"/>
+                            <constraint firstItem="0A7-Zd-dwO" firstAttribute="top" secondItem="24j-Zk-rSY" secondAttribute="bottom" constant="74" id="LUW-xc-D7c"/>
                             <constraint firstItem="NR8-TQ-vgw" firstAttribute="height" secondItem="k8w-Nb-jCO" secondAttribute="height" multiplier="0.73" id="Lmj-uP-5nh"/>
                             <constraint firstItem="JQp-zY-86c" firstAttribute="centerY" secondItem="uOc-oZ-NLG" secondAttribute="centerY" id="NNd-No-wnP"/>
                             <constraint firstItem="JQp-zY-86c" firstAttribute="height" secondItem="uOc-oZ-NLG" secondAttribute="height" id="NTu-cA-TsF"/>
@@ -1163,6 +1164,7 @@ The app uses Social and Emotional Learning (SEL) to empower middle school girls 
                             <constraint firstItem="0ZK-mD-cKM" firstAttribute="centerY" secondItem="NR8-TQ-vgw" secondAttribute="centerY" id="nwO-L5-aJW"/>
                             <constraint firstItem="NR8-TQ-vgw" firstAttribute="centerY" secondItem="k8w-Nb-jCO" secondAttribute="centerY" multiplier="1.18" id="sZb-MA-PpS"/>
                             <constraint firstItem="9IW-7K-Gls" firstAttribute="leading" secondItem="24j-Zk-rSY" secondAttribute="trailing" constant="15" id="slp-gg-z20"/>
+                            <constraint firstItem="0A7-Zd-dwO" firstAttribute="leading" secondItem="k8w-Nb-jCO" secondAttribute="leadingMargin" constant="10" id="tej-Cq-MEH"/>
                             <constraint firstItem="NR8-TQ-vgw" firstAttribute="width" secondItem="k8w-Nb-jCO" secondAttribute="width" multiplier="0.6" id="uNi-cP-zpo"/>
                             <constraint firstItem="de7-VX-YPL" firstAttribute="centerX" secondItem="uOc-oZ-NLG" secondAttribute="centerX" multiplier="1.325" id="wND-ca-En7"/>
                             <constraint firstItem="dpd-4J-5ix" firstAttribute="top" secondItem="C1p-vc-PYe" secondAttribute="bottom" id="wiQ-iN-zee"/>
