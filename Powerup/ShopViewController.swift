@@ -30,7 +30,7 @@ class ShopViewController: UIViewController {
     
     // MARK: Views
     @IBOutlet weak var pointsLabel: UILabel!
-    
+    @IBOutlet weak var previewLabel: UILabel!
     @IBOutlet weak var avatarEyesView: UIImageView!
     @IBOutlet weak var avatarHairView: UIImageView!
     @IBOutlet weak var avatarFaceView: UIImageView!
