@@ -1123,6 +1123,16 @@ The app uses Social and Emotional Learning (SEL) to empower middle school girls 
                                     <action selector="homeButtonTouched:" destination="Ayb-3h-vA7" eventType="touchUpInside" id="5a5-QJ-5F0"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0A7-Zd-dwO">
+                                <rect key="frame" x="30" y="132" width="70" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="70" id="RJw-SL-ZjI"/>
+                                    <constraint firstAttribute="height" constant="21" id="aYK-Oc-vrW"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Montserrat-Bold" family="Montserrat" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -1174,6 +1184,7 @@ The app uses Social and Emotional Learning (SEL) to empower middle school girls 
                         <outlet property="nextButton" destination="Zb4-CC-Mbj" id="uuq-cW-67H"/>
                         <outlet property="pointsLabel" destination="9IW-7K-Gls" id="lm7-Xg-smx"/>
                         <outlet property="prevButton" destination="0ZK-mD-cKM" id="1nY-ya-ROe"/>
+                        <outlet property="previewLabel" destination="0A7-Zd-dwO" id="5tm-G4-WhD"/>
                         <outletCollection property="displayBoxes" destination="2Uv-dW-Wkm" collectionClass="NSMutableArray" id="BWa-5Q-3N9"/>
                         <outletCollection property="displayBoxes" destination="X50-eP-Zyb" collectionClass="NSMutableArray" id="7sw-EK-OLI"/>
                         <outletCollection property="displayBoxes" destination="Xbb-5J-AKk" collectionClass="NSMutableArray" id="DtO-Bm-WSf"/>
